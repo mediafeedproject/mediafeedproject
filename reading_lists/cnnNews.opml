@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CNN News</title>
+		<dateModified>Sun, 13 Sep 2015 03:58:46 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>12</lastCursor>
+		</head>
+	<body>
+		<outline text="CNN News - Top Stories" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+		<outline text="CNN News - World" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss"/>
+		<outline text="CNN News - US" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_us.rss"/>
+		<outline text="CNN News - Business" type="rss" xmlUrl="http://rss.cnn.com/rss/money_latest.rss"/>
+		<outline text="CNN News - Politics" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_allpolitics.rss"/>
+		<outline text="CNN News - Technology" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_tech.rss"/>
+		<outline text="CNN News - Health" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_health.rss"/>
+		<outline text="CNN News - Entertainment" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_showbiz.rss"/>
+		<outline text="CNN News - Travel" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_travel.rss"/>
+		<outline text="CNN News - Living" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_living.rss"/>
+		<outline text="CNN News - Video" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_freevideo.rss"/>
+		<outline text="CNN News - Most Recent" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_latest.rss"/>
+		<outline text="CNN News - iReports" type="rss" xmlUrl="http://rss.ireport.com/feeds/oncnn.rss"/>
+		</body>
+	</opml>

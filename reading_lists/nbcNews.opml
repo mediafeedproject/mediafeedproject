@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>NBC News</title>
+		<dateModified>Sat, 29 Aug 2015 14:02:10 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>3</lastCursor>
+		</head>
+	<body>
+		<outline text="NBC News - Top Stories" type="rss" xmlUrl="http://feeds.nbcnews.com/feeds/topstories"/>
+		<outline text="NBC News - NBC Nightly News" created="Sat, 29 Aug 2015 14:00:13 GMT" type="rss" xmlUrl="http://feeds.nbcnews.com/feeds/dailynightly"/>
+		<outline text="NBC News - Today" created="Sat, 29 Aug 2015 14:00:32 GMT" type="rss" xmlUrl="http://feeds.nbcnews.com/feeds/todaytopstories"/>
+		<outline text="NBC News - Dateline" created="Sat, 29 Aug 2015 14:00:50 GMT" type="rss" xmlUrl="http://feeds.nbcnews.com/feeds/insidedateline"/>
+		</body>
+	</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Washington Post</title>
+		<dateModified>Sat, 19 Sep 2015 15:29:42 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>9</lastCursor>
+		</head>
+	<body>
+		<outline text="Washington Post - Politics" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics"/>
+		<outline text="Washington Post - Opinion" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/opinions"/>
+		<outline text="Washington Post - Local" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/local"/>
+		<outline text="Washington Post - Sports" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/sports"/>
+		<outline text="Washington Post - National" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/national"/>
+		<outline text="Washington Post - World" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world"/>
+		<outline text="Washington Post - Business" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/business"/>
+		<outline text="Washington Post - Lifestyle" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/lifestyle"/>
+		<outline text="Washington Post - Entertainment" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/entertainment"/>
+		<outline text="Washington Post - Real Estate" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_where-we-live"/>
+		</body>
+	</opml>

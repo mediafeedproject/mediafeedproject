@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CNBC News</title>
+		<dateModified>Sun, 13 Sep 2015 03:01:18 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>20</lastCursor>
+		</head>
+	<body>
+		<outline text="CNBC News - Top News" type="rss" xmlUrl="http://www.cnbc.com/id/100003114/device/rss/rss.html"/>
+		<outline text="CNBC News - World News" type="rss" xmlUrl="http://www.cnbc.com/id/100727362/device/rss/rss.html"/>
+		<outline text="CNBC News - US News" type="rss" xmlUrl="http://www.cnbc.com/id/15837362/device/rss/rss.html"/>
+		<outline text="CNBC News - Asia News" type="rss" xmlUrl="http://www.cnbc.com/id/19832390/device/rss/rss.html"/>
+		<outline text="CNBC News - Europe News" type="rss" xmlUrl="http://www.cnbc.com/id/19794221/device/rss/rss.html"/>
+		<outline text="CNBC News - Business" type="rss" xmlUrl="http://www.cnbc.com/id/10001147/device/rss/rss.html"/>
+		<outline text="CNBC News - Earnings" type="rss" xmlUrl="http://www.cnbc.com/id/15839135/device/rss/rss.html"/>
+		<outline text="CNBC News - Commentary" type="rss" xmlUrl="http://www.cnbc.com/id/20910258/device/rss/rss.html"/>
+		<outline text="CNBC News - Economy" type="rss" xmlUrl="http://www.cnbc.com/id/20910258/device/rss/rss.html"/>
+		<outline text="CNBC News - Finance" type="rss" xmlUrl="http://www.cnbc.com/id/10000664/device/rss/rss.html"/>
+		<outline text="CNBC News - Technology" type="rss" xmlUrl="http://www.cnbc.com/id/19854910/device/rss/rss.html"/>
+		<outline text="CNBC News - Politics" type="rss" xmlUrl="http://www.cnbc.com/id/10000113/device/rss/rss.html"/>
+		<outline text="CNBC News - Health Care" type="rss" xmlUrl="http://www.cnbc.com/id/10000108/device/rss/rss.html"/>
+		<outline text="CNBC News - Real Estate" type="rss" xmlUrl="http://www.cnbc.com/id/10000115/device/rss/rss.html"/>
+		<outline text="CNBC News - Wealth" type="rss" xmlUrl="http://www.cnbc.com/id/10001054/device/rss/rss.html"/>
+		<outline text="CNBC News - Autos" type="rss" xmlUrl="http://www.cnbc.com/id/10000101/device/rss/rss.html"/>
+		<outline text="CNBC News - Energy" type="rss" xmlUrl="http://www.cnbc.com/id/19836768/device/rss/rss.html"/>
+		<outline text="CNBC News - Media" type="rss" xmlUrl="http://www.cnbc.com/id/10000110/device/rss/rss.html"/>
+		<outline text="CNBC News - Retail" type="rss" xmlUrl="http://www.cnbc.com/id/10000116/device/rss/rss.html"/>
+		<outline text="CNBC News - Travel" type="rss" xmlUrl="http://www.cnbc.com/id/10000739/device/rss/rss.html"/>
+		<outline text="CNBC News - Small Business" type="rss" xmlUrl="http://www.cnbc.com/id/44877279/device/rss/rss.html"/>
+		</body>
+	</opml>

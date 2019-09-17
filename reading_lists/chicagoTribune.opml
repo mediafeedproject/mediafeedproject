@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Chicago Tribune</title>
+		<dateModified>Sat, 19 Sep 2015 17:56:38 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>5</lastCursor>
+		</head>
+	<body>
+		<outline text="Chicago Tribune - News" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/622809/index.rss"/>
+		<outline text="Chicago Tribune - Sports" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/622881/index.rss"/>
+		<outline text="Chicago Tribune - Business" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/669329/index.rss"/>
+		<outline text="Chicago Tribune - Opinion" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/622816/index.rss"/>
+		<outline text="Chicago Tribune - News" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/622809/index.rss"/>
+		<outline text="Chicago Tribune - Entertainment" type="rss" xmlUrl="http://chicagotribune.feedsportal.com/c/34253/f/622917/index.rss"/>
+		</body>
+	</opml>

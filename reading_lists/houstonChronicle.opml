@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Houston Chronicle</title>
+		<dateModified>Mon, 14 Sep 2015 03:22:45 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>3</lastCursor>
+		</head>
+	<body>
+		<outline text="Houston Chronicle - News" type="rss" xmlUrl="http://www.chron.com/rss/feed/News-270.php"/>
+		<outline text="Houston Chronicle - Houston and Texas" type="rss" xmlUrl="http://www.chron.com/rss/feed/Houston-and-Texas-272.php"/>
+		<outline text="Houston Chronicle - Politics" type="rss" xmlUrl="http://www.chron.com/rss/feed/Politics-275.php"/>
+		<outline text="Houston Chronicle - Sports" type="rss" xmlUrl="http://www.chron.com/sports/headlines/collectionRss/Sports-Headlines-Staff-Stories-10767.php"/>
+		<outline text="Houston Chronicle - Business" type="rss" xmlUrl="http://www.chron.com/rss/feed/Business-287.php"/>
+		<outline text="Houston Chronicle - Economy" type="rss" xmlUrl="http://www.chron.com/rss/feed/Economy-292.php"/>
+		<outline text="Houston Chronicle - Energy" type="rss" xmlUrl="http://www.chron.com/rss/feed/Energy-288.php"/>
+		<outline text="Houston Chronicle - Real Estate" type="rss" xmlUrl="http://www.chron.com/rss/feed/Real-Estate-290.php"/>
+		<outline text="Houston Chronicle - Opinion" type="rss" xmlUrl="http://www.chron.com/opinion/editorials/collectionRss/Opinion-Editorials-Headline-List-10567.php"/>
+		<outline text="Houston Chronicle - Entertainment" type="rss" xmlUrl="http://www.chron.com/rss/feed/Entertainment-293.php"/>
+		<outline text="Houston Chronicle - Life" created="Sun, 06 Sep 2015 20:39:56 GMT" type="rss" xmlUrl="http://www.chron.com/rss/feed/Life-297.php"/>
+		</body>
+	</opml>

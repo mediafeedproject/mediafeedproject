@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Los Angeles Times</title>
+		<dateModified>Mon, 14 Sep 2015 03:28:52 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>9</lastCursor>
+		</head>
+	<body>
+		<outline text="Los Angeles Times - News" type="rss" xmlUrl="http://www.latimes.com/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Local" type="rss" xmlUrl="http://www.latimes.com/local/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Sports" type="rss" xmlUrl="http://www.latimes.com/sports/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Entertainment" type="rss" xmlUrl="http://www.latimes.com/entertainment/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Nation" type="rss" xmlUrl="http://www.latimes.com/nation/rss2.0.xml"/>
+		<outline text="Los Angeles Times - World" type="rss" xmlUrl="http://www.latimes.com/world/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Business" type="rss" xmlUrl="http://www.latimes.com/business/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Opinion" type="rss" xmlUrl="http://www.latimes.com/opinion/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Style" type="rss" xmlUrl="http://www.latimes.com/style/rss2.0.xml"/>
+		<outline text="Los Angeles Times - Travel" type="rss" xmlUrl="http://www.latimes.com/travel/rss2.0.xml"/>
+		</body>
+	</opml>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CBS News</title>
+		<dateModified>Sat, 29 Aug 2015 13:59:07 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>13</lastCursor>
+		</head>
+	<body>
+		<outline text="CBS News - Top Stories" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/main"/>
+		<outline text="CBS News - US" created="Sat, 29 Aug 2015 13:49:10 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/us"/>
+		<outline text="CBS News - Politics" created="Sat, 29 Aug 2015 13:49:14 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/politics"/>
+		<outline text="CBS News - World" created="Sat, 29 Aug 2015 13:49:26 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/world"/>
+		<outline text="CBS News - Sci-Tech" created="Sat, 29 Aug 2015 13:49:37 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/tech"/>
+		<outline text="CBS News - Health" created="Sat, 29 Aug 2015 13:49:43 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/health"/>
+		<outline text="CBS News - Entertainment" created="Sat, 29 Aug 2015 13:49:53 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/entertainment"/>
+		<outline text="CBS News - Moneywatch" created="Sat, 29 Aug 2015 13:50:01 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/moneywatch"/>
+		<outline text="CBS News - CBS Investigates" created="Sat, 29 Aug 2015 13:50:16 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/evening-news-cbs-news-investigates"/>
+		<outline text="CBS News - Opinion" created="Sat, 29 Aug 2015 13:50:26 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/opinion"/>
+		<outline text="CBS News Video" created="Sat, 29 Aug 2015 13:50:44 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/video"/>
+		<outline text="CBS This Morning" created="Sat, 29 Aug 2015 13:50:52 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/cbs-this-morning"/>
+		<outline text="CBS Evening News" created="Sat, 29 Aug 2015 13:50:56 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/evening-news"/>
+		<outline text="CBS 48 Hours" created="Sat, 29 Aug 2015 13:51:06 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/48-hours"/>
+		<outline text="CBS 60 Minutes" created="Sat, 29 Aug 2015 13:51:12 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/60-minutes"/>
+		<outline text="CBS Face The Nation" created="Sat, 29 Aug 2015 13:51:28 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation"/>
+		<outline text="CBS Sunday Morning" created="Sat, 29 Aug 2015 13:51:34 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/sunday-morning"/>
+		<outline text="CBS Up To The Minute" created="Sat, 29 Aug 2015 13:51:41 GMT" type="rss" xmlUrl="http://feeds.cbsnews.com/CBSNewsUTTM"/>
+		<outline text="CBS Offbeat" created="Sat, 29 Aug 2015 13:51:59 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/strange"/>
+		<outline text="CBS Gamecore" created="Sat, 29 Aug 2015 13:52:07 GMT" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/scitech-gamecore"/>
+		</body>
+	</opml>

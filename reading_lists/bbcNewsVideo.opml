@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>BBC News Video</title>
+		<dateModified>Fri, 28 Aug 2015 14:27:45 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>1</lastCursor>
+		</head>
+	<body>
+		<outline text="BBC News" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA"/>
+		<outline text="BBC Newsnight" created="Fri, 28 Aug 2015 14:27:18 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6o-wWU-v2ClFMwougmK7dA"/>
+		</body>
+	</opml>

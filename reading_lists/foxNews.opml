@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Fox News</title>
+		<dateModified>Fri, 04 Sep 2015 03:39:55 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>13</lastCursor>
+		</head>
+	<body>
+		<outline text="Fox News - Latest Headlines" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/latest"/>
+		<outline text="Fox News - Most Popular" created="Fri, 04 Sep 2015 03:33:31 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/most-popular"/>
+		<outline text="Fox News - Entertainment" created="Fri, 04 Sep 2015 03:33:45 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/entertainment"/>
+		<outline text="Fox News - Health" created="Fri, 04 Sep 2015 03:34:07 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/health"/>
+		<outline text="Fox News - Lifestyle" created="Fri, 04 Sep 2015 03:34:11 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/section/lifestyle"/>
+		<outline text="Fox News - Opinion" created="Fri, 04 Sep 2015 03:34:31 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/opinion"/>
+		<outline text="Fox News - Politics" created="Fri, 04 Sep 2015 03:34:35 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/politics"/>
+		<outline text="Fox News - Science" created="Fri, 04 Sep 2015 03:34:58 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/science"/>
+		<outline text="Fox News - Sports" created="Fri, 04 Sep 2015 03:35:01 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/sports"/>
+		<outline text="Fox News - Tech" created="Fri, 04 Sep 2015 03:35:16 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/tech"/>
+		<outline text="Fox News - Travel" created="Fri, 04 Sep 2015 03:35:21 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/internal/travel/mixed"/>
+		<outline text="Fox News - US" created="Fri, 04 Sep 2015 03:35:31 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/national"/>
+		<outline text="Fox News - Video" created="Fri, 04 Sep 2015 03:35:35 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/video"/>
+		<outline text="Fox News - World" created="Fri, 04 Sep 2015 03:35:50 GMT" type="rss" xmlUrl="http://feeds.foxnews.com/foxnews/world"/>
+		</body>
+	</opml>

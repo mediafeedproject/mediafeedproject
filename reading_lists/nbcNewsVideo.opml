@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>NBC News Video</title>
+		<dateModified>Sun, 13 Sep 2015 04:02:51 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>3</lastCursor>
+		</head>
+	<body>
+		<outline text="NBC News" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg"/>
+		<outline text="CNBC" created="Fri, 28 Aug 2015 14:25:05 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvJJ_dzjViJCoLf5uKUTwoA"/>
+		<outline text="MSNBC" created="Fri, 28 Aug 2015 14:25:08 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaXkIU1QidjPwiAYu6GcHjg"/>
+		<outline text="Today" created="Fri, 28 Aug 2015 14:25:12 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChDKyKQ59fYz3JO2fl0Z6sg"/>
+		</body>
+	</opml>

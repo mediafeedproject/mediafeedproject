@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>ABC News Video</title>
+		<dateModified>Fri, 28 Aug 2015 14:27:01 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="ABC News" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q"/>
+		</body>
+	</opml>

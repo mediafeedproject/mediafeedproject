@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Miami Herald</title>
+		<dateModified>Sat, 19 Sep 2015 17:17:40 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>9</lastCursor>
+		</head>
+	<body>
+		<outline text="Miami Herald - Dave Barry" type="rss" xmlUrl="http://blogs.herald.com/dave_barrys_blog/atom.xml"/>
+		<outline text="Miami Herald - News" type="rss" xmlUrl="http://www.miamiherald.com/news/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Politics" type="rss" xmlUrl="http://www.miamiherald.com/news/politics-government/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Education" type="rss" xmlUrl="http://www.miamiherald.com/news/local/education/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Environment" type="rss" xmlUrl="http://www.miamiherald.com/news/local/environment/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - National" type="rss" xmlUrl="http://www.miamiherald.com/news/nation-world/national/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - World" type="rss" xmlUrl="http://www.miamiherald.com/news/nation-world/world/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Americas" type="rss" xmlUrl="http://www.miamiherald.com/news/nation-world/world/americas/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Sports" type="rss" xmlUrl="http://www.miamiherald.com/sports/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		<outline text="Miami Herald - Business" type="rss" xmlUrl="http://www.miamiherald.com/news/business/?widgetName=rssfeed&amp;widgetContentId=712015&amp;getXmlFeed=true"/>
+		</body>
+	</opml>

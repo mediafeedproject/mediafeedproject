@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CBC News</title>
+		<dateModified>Sun, 13 Sep 2015 02:22:01 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>10</lastCursor>
+		</head>
+	<body>
+		<outline text="CBC News - Top Stories" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-topstories"/>
+		<outline text="CBC News - World" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-world"/>
+		<outline text="CBC News - Canada" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-canada"/>
+		<outline text="CBC News - Politics" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-politics"/>
+		<outline text="CBC News - Business" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-business"/>
+		<outline text="CBC News - Health" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-health"/>
+		<outline text="CBC News - Arts and Entertainment" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-arts"/>
+		<outline text="CBC News - Technology and Science" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-technology"/>
+		<outline text="CBC News - Offbeat" created="Sat, 05 Sep 2015 05:57:00 GMT" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-offbeat"/>
+		<outline text="CBC News - Aboriginal" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-cbcaboriginal"/>
+		<outline text="CBC News - Sports" type="rss" xmlUrl="http://www.cbc.ca/cmlink/rss-sports"/>
+		</body>
+	</opml>

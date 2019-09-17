@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>BBC News</title>
+		<dateModified>Sun, 13 Sep 2015 02:10:46 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>18</lastCursor>
+		</head>
+	<body>
+		<outline text="BBC News - Top Stories" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+		<outline text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+		<outline text="BBC News - UK" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml"/>
+		<outline text="BBC News - Business" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml"/>
+		<outline text="BBC News - Politics" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml"/>
+		<outline text="BBC News - Health" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/health/rss.xml"/>
+		<outline text="BBC News - Education and Family" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml"/>
+		<outline text="BBC News - Science and Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"/>
+		<outline text="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+		<outline text="BBC News - Entertainment and Arts" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+		<outline text="BBC News - Africa" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/africa/rss.xml"/>
+		<outline text="BBC News - Asia" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/rss.xml"/>
+		<outline text="BBC News - Europe" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/rss.xml"/>
+		<outline text="BBC News - Latin America" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/latin_america/rss.xml"/>
+		<outline text="BBC News - Middle East" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/middle_east/rss.xml"/>
+		<outline text="BBC News - US and Canada" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"/>
+		<outline text="BBC News - England" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/england/rss.xml"/>
+		<outline text="BBC News - Northern Ireland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/northern_ireland/rss.xml"/>
+		<outline text="BBC News - Scotland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/scotland/rss.xml"/>
+		<outline text="BBC News - Wales" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/wales/rss.xml"/>
+		</body>
+	</opml>

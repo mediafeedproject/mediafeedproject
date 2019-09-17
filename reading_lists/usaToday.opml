@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>USA Today</title>
+		<dateModified>Sun, 20 Sep 2015 03:24:43 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>11</lastCursor>
+		</head>
+	<body>
+		<outline text="USA Today - Top Headlines" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"/>
+		<outline text="USA Today - National" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomNation-TopStories"/>
+		<outline text="USA Today - Washington" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomWashington-TopStories"/>
+		<outline text="USA Today - World" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories"/>
+		<outline text="USA Today - Opinion" type="rss" xmlUrl="http://rssfeeds.usatoday.com/News-Opinion"/>
+		<outline text="USA Today - Sports" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomSports-TopStories"/>
+		<outline text="USA Today - NFL" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomNfl-TopStories"/>
+		<outline text="USA Today - NCAAF" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomCollegeFootball-TopStories"/>
+		<outline text="USA Today - MLB" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMlb-TopStories"/>
+		<outline text="USA Today - NBA" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomNba-TopStories"/>
+		<outline text="USA Today - Golf" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomGolf-TopStories"/>
+		<outline text="USA Today - Fantasy" type="rss" xmlUrl="http://rssfeeds.usatoday.com/topfantasy"/>
+		<outline text="USA Today - NHL" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomNhl-TopStories"/>
+		<outline text="USA Today - NCAAB" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomCollegeMensBasketball-TopStories"/>
+		<outline text="USA Today - Soccer" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomSoccer-TopStories"/>
+		<outline text="USA Today - Motor Sports" type="rss" xmlUrl="http://rssfeeds.usatoday.com/topmotorsports"/>
+		<outline text="USA Today - Tennis" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodayTennis-TopStories"/>
+		<outline text="USA Today - Cycling" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodayCycling-TopStories"/>
+		<outline text="USA Today - Olympics" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomOlympicsCoverage-TopStories"/>
+		<outline text="USA Today - Entertainment" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-LifeTopStories"/>
+		<outline text="USA Today - People" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/toppeople"/>
+		<outline text="USA Today - Movies" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMovies-TopStories"/>
+		<outline text="USA Today - Music" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMusic-TopStories"/>
+		<outline text="USA Today - TV" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomTelevision-TopStories"/>
+		<outline text="USA Today - Books" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomBooks-TopStories"/>
+		<outline text="USA Today - Money" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories"/>
+		<outline text="USA Today - Cars" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMoney-Healey"/>
+		<outline text="USA Today - Tech" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-TechTopStories"/>
+		<outline text="USA Today - Personal Tech" created="Fri, 18 Sep 2015 13:50:10 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomTech-PersonalTalk"/>
+		<outline text="USA Today - Gaming" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/topgaming"/>
+		<outline text="USA Today - Travel" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories"/>
+		<outline text="USA Today - Destinations" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodayTravel-Destinations"/>
+		<outline text="USA Today - Flights" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodayTravel-Flights"/>
+		<outline text="USA Today - Cruises" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/TP-TheCruiseLog"/>
+		<outline text="USA Today - Hotels" created="Fri, 18 Sep 2015 13:43:59 GMT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodayTravel-Hotels"/>
+		</body>
+	</opml>

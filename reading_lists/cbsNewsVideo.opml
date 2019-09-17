@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>CBS News Video</title>
+		<dateModified>Fri, 28 Aug 2015 14:24:32 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>5</lastCursor>
+		</head>
+	<body>
+		<outline text="CBSN" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2tg0g4H9h9bDfvuyBGxeRA"/>
+		<outline text="CBS This Morning" created="Fri, 28 Aug 2015 14:19:43 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-SJ6nODDmufqBzPBwCvYvQ"/>
+		<outline text="CBS Evening News" created="Fri, 28 Aug 2015 14:19:51 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAeWdyKJXGWmVAXFpgLNNTg"/>
+		<outline text="60 Minutes" created="Fri, 28 Aug 2015 14:20:00 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsN32BtMd0IoByjJRNF12cw"/>
+		<outline text="Face The Nation" created="Fri, 28 Aug 2015 14:20:06 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2x_qNZXKDxNP1j4jvHATRQ"/>
+		<outline text="CBS Sunday Morning" created="Fri, 28 Aug 2015 14:20:15 GMT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVT1tPkR-fUVlO652EcO3ow"/>
+		</body>
+	</opml>

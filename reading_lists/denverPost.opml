@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Denver Post</title>
+		<dateModified>Sat, 19 Sep 2015 17:40:22 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>14</lastCursor>
+		</head>
+	<body>
+		<outline text="Denver Post - Breaking News" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-breaking"/>
+		<outline text="Denver Post - Top Stories" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-topstories"/>
+		<outline text="Denver Post - Local" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-local-crime"/>
+		<outline text="Denver Post - Education" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-education"/>
+		<outline text="Denver Post - Environment" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-environment"/>
+		<outline text="Denver Post - Breaking News - Local" type="rss" xmlUrl="http://feeds.denverpost.com/dp-news-breaking-local"/>
+		<outline text="Denver Post - Business" type="rss" xmlUrl="http://feeds.denverpost.com/dp-business"/>
+		<outline text="Denver Post - Sports" type="rss" xmlUrl="http://feeds.denverpost.com/dp-sports"/>
+		<outline text="Denver Post - Entertainment" type="rss" xmlUrl="http://feeds.denverpost.com/dp-entertainment"/>
+		<outline text="Denver Post - Books" type="rss" xmlUrl="http://feeds.denverpost.com/dp-entertainment-books"/>
+		<outline text="Denver Post - Music" type="rss" xmlUrl="http://feeds.denverpost.com/dp-entertainment-music"/>
+		<outline text="Denver Post - Movies" type="rss" xmlUrl="http://feeds.denverpost.com/dp-entertainment-movies"/>
+		<outline text="Denver Post - Lifestyle" type="rss" xmlUrl="http://feeds.denverpost.com/dp-lifestyles"/>
+		<outline text="Denver Post - Politics" type="rss" xmlUrl="http://feeds.denverpost.com/dp-politics"/>
+		<outline text="Denver Post - Opinion" type="rss" xmlUrl="http://feeds.denverpost.com/dp-opinion"/>
+		</body>
+	</opml>

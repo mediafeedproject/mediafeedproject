@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Seattle Times</title>
+		<dateModified>Sat, 19 Sep 2015 17:27:26 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>8</lastCursor>
+		</head>
+	<body>
+		<outline text="Seattle Times - News" type="rss" xmlUrl="http://www.seattletimes.com/feed/"/>
+		<outline text="Seattle Times - Local" type="rss" xmlUrl="http://www.seattletimes.com/seattle-news/feed/"/>
+		<outline text="Seattle Times - World" type="rss" xmlUrl="http://www.seattletimes.com/nation-world/feed/"/>
+		<outline text="Seattle Times - Business" type="rss" xmlUrl="http://www.seattletimes.com/business/feed/"/>
+		<outline text="Seattle Times - Sports" type="rss" xmlUrl="http://www.seattletimes.com/sports/feed/"/>
+		<outline text="Seattle Times - Entertainment" type="rss" xmlUrl="http://www.seattletimes.com/entertainment/feed/"/>
+		<outline text="Seattle Times - Life" type="rss" xmlUrl="http://www.seattletimes.com/life/feed/"/>
+		<outline text="Seattle Times - Opinion" type="rss" xmlUrl="http://www.seattletimes.com/opinion/feed/"/>
+		<outline text="Seattle Times - Photo/Video" type="rss" xmlUrl="http://www.seattletimes.com/photo-video/feed/"/>
+		</body>
+	</opml>

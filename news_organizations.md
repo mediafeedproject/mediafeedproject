@@ -10,8 +10,8 @@ Print
 
 * [Chicago Tribune](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/chicagoTribune.opml)
 * [Denver Post](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/denverPost.opml)
-* [Houston Chronicle](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/houstonChronicle.opml}
-* [Los Angeles Times](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/losAngelesTimes.opml}
+* [Houston Chronicle](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/houstonChronicle.opml)
+* [Los Angeles Times](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/losAngelesTimes.opml)
 * [Miami Herald](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/miamiHerald.opml)
 * [New York Times](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/nytRiver.opml)
 * [Seattle Times](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/seattleTimes.opml)
@@ -30,14 +30,15 @@ Television
 * [CBS News Video](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/cbsNewsVideo.opml)
 * [CNBC](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/cnbcNews.opml)
 * [CNN](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/cnnNews.opml)
-* [FOX News[(https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/foxNews.opml)
+* [FOX News](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/foxNews.opml)
 * [NBC News](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/nbcNews.opml)
 * [NBC News Video](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/nbcNewsVideo.opml)
 
 Internet-only
 ---
 
-* Politico
+* [Politico](https://github.com/mediafeedproject/mediafeedproject/blob/master/reading_lists/PoliticoFeeds.opml)
+
 
 
 Radio

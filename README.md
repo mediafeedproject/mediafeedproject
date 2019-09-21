@@ -25,7 +25,7 @@ Feed types supported as a minimum are as follows:
 * [RSS 2.0](https://cyber.harvard.edu/rss/rss.html)
 * [JSON Feed](https://jsonfeed.org/)
 
-Feeds are organized by organization (for example, The New York Times), and all feeds from that organzation are stored in a file in Outline Processor Markup Language (OPML). The lists should be in subscription list format (see the [OPML spec]{http://dev.opml.org/spec2.html#subscriptionLists} for details).
+Feeds are organized by organization (for example, The New York Times), and all feeds from that organzation are stored in a file in Outline Processor Markup Language (OPML). The lists should be in subscription list format (see the [OPML spec](http://dev.opml.org/spec2.html#subscriptionLists) for details).
 
 
 How to get started
@@ -40,10 +40,12 @@ How to get involved
 
 * Spread the word about the project
 * File Github issues with questions
-* Contact Media Feed Project by the following:
-    Email: info@mediafeedproject.org
-	Twitter: @MediaFeedProj
-	Facebook: https://www.facebook.com/Media-Feed-Project-108541333872997/
+
+Contact Media Feed Project by the following:
+
+* Email: info@mediafeedproject.org
+* Twitter: @MediaFeedProj
+* Facebook: https://www.facebook.com/Media-Feed-Project-108541333872997/
 
 Maintainers
 ---

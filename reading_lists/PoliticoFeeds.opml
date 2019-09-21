@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>PoliticoFeeds</title>
+		<dateModified>Fri, 20 Sep 2019 16:51:30 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>17</lastCursor>
+		<ownerTwitterScreenName>AndySylvester99</ownerTwitterScreenName>
+		<ownerName>Andy Sylvester</ownerName>
+		<ownerId>http://twitter.com/AndySylvester99</ownerId>
+		<urlUpdateSocket>ws://storage.littleoutliner.com:1242/</urlUpdateSocket>
+		</head>
+	<body>
+		<outline text="Congress" created="Fri, 20 Sep 2019 16:36:58 GMT" type="link" url="https://www.politico.com/rss/congress.xml"/>
+		<outline text="Health Care" created="Fri, 20 Sep 2019 16:37:32 GMT" type="link" url="https://www.politico.com/rss/healthcare.xml"/>
+		<outline text="Defense" created="Fri, 20 Sep 2019 16:37:58 GMT" type="link" url="https://www.politico.com/rss/defense.xml"/>
+		<outline text="Economy" created="Fri, 20 Sep 2019 16:38:38 GMT" type="link" url="https://www.politico.com/rss/economy.xml"/>
+		<outline text="Energy" created="Fri, 20 Sep 2019 16:40:39 GMT" type="link" url="https://www.politico.com/rss/energy.xml"/>
+		<outline text="Politics" created="Fri, 20 Sep 2019 16:41:51 GMT" type="link" url="https://www.politico.com/rss/politics.xml"/>
+		<outline text="Playbook" created="Fri, 20 Sep 2019 16:42:22 GMT" type="link" url="https://www.politico.com/rss/playbook.xml"/>
+		<outline text="Morning Tech" created="Fri, 20 Sep 2019 16:42:40 GMT" type="link" url="https://www.politico.com/rss/morningtech.xml"/>
+		<outline text="Morning Money" created="Fri, 20 Sep 2019 16:43:09 GMT" type="link" url="https://www.politico.com/rss/morningmoney.xml"/>
+		<outline text="POLITICO Pulse" created="Fri, 20 Sep 2019 16:43:32 GMT" type="link" url="https://www.politico.com/rss/politicopulse.xml"/>
+		<outline text="Huddle" created="Fri, 20 Sep 2019 16:43:57 GMT" type="link" url="https://www.politico.com/rss/huddle.xml"/>
+		<outline text="Morning Defense" created="Fri, 20 Sep 2019 16:44:20 GMT" type="link" url="https://www.politico.com/rss/morningdefense.xml"/>
+		<outline text="Morning Transportation" created="Fri, 20 Sep 2019 16:44:45 GMT" type="link" url="https://www.politico.com/rss/morningtransportation.xml"/>
+		<outline text="Morning Education" created="Fri, 20 Sep 2019 16:45:13 GMT" type="link" url="https://www.politico.com/rss/morningeducation.xml"/>
+		<outline text="Morning Tax" created="Fri, 20 Sep 2019 16:45:35 GMT" type="link" url="https://www.politico.com/rss/morningtax.xml"/>
+		<outline text="Morning Agriculture" created="Fri, 20 Sep 2019 16:45:59 GMT" type="link" url="https://www.politico.com/rss/morningagriculture.xml"/>
+		<outline text="Morning Cybersecurity" created="Fri, 20 Sep 2019 16:46:29 GMT" type="link" url="https://www.politico.com/rss/morningcybersecurity.xml"/>
+		<outline text="Morning eHealth" created="Fri, 20 Sep 2019 16:46:47 GMT" type="link" url="https://www.politico.com/rss/morningehealth.xml"/>
+		<outline text="Morning Shift" created="Fri, 20 Sep 2019 16:46:38 GMT" type="link" url="https://www.politico.com/rss/morningshift.xml"/>
+		<outline text="Morning Trade" created="Fri, 20 Sep 2019 16:47:43 GMT" type="link" url="https://www.politico.com/rss/morningtrade.xml"/>
+		<outline text="Josh Gerstein - Under The Radar" created="Fri, 20 Sep 2019 16:48:25 GMT" type="link" url="https://www.politico.com/rss/undertheradar_full.xml"/>
+		<outline text="What Works" created="Fri, 20 Sep 2019 16:48:51 GMT" type="link" url="https://www.politico.com/magazine/rss/whatworks.xml"/>
+		</body>
+	</opml>
